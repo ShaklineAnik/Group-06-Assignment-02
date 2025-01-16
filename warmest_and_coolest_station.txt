@@ -1,0 +1,2 @@
+Warmest Station(s): Station_A with an average temperature of 28.71°C
+Coolest Station(s): Station_B with an average temperature of 13.29°C

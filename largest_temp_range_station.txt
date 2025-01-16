@@ -1,0 +1,1 @@
+Station Station_C has the largest temperature range: 25.98°C
