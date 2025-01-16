@@ -1,0 +1,8 @@
+
+ CCCC   DDDD   U   U        SSS   Y   Y  DDDD
+C        D   D  U   U      S         Y Y   D   D
+C        D   D  U   U       SSS       Y    D   D
+C        D   D  U   U          S      Y    D   D
+ CCCC   DDDD   UUUUU      SSSSS      Y    DDDD
+
+ A barking dog seldom bites @#$%^&
